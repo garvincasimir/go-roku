@@ -11,7 +11,7 @@ There are no special requirements for building. Simply *go build*
 ## Contributing
 Go masters/novices out there please feel free to send a pull request. 
 
-## 3 things I love about #GO#
+## 3 things I love about Go
 * The approach to concurrency 
 * The general purpose template package
 * go fmt
